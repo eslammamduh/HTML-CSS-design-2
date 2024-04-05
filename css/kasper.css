@@ -115,6 +115,7 @@ ul.main-menu {
 ul.main-menu li:hover {
     cursor: pointer;
     color: var(--main-color);
+    border-bottom: 2px solid var(--main-color);
 
 }
 
@@ -379,7 +380,7 @@ div.img-card:hover .text {
 
 
 div.img-net .img-card:hover img {
-    transform: rotate(3deg);
+    transform: scale(1.2) rotate(7deg);
 }
 
 div.img-net .img-card img {
