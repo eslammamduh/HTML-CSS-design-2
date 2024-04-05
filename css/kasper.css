@@ -154,7 +154,7 @@ div.main-menu i::before {
 
 /* start landing page */
 div.landing {
-    background-image: url(../../images/landing.jpg); 
+    background-image: url(../images/landing.jpg); 
     background-size: cover;
     height: 100vh;
     position: relative;
